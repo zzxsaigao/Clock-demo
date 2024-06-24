@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">clock</string>
+    <string-array name="sound_options">
+        <item>中文</item>
+        <item>日文</item>
+        <item>英文</item>
+        <item>六合文</item>
+    </string-array>
+</resources>
